@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "740790213926",
+    "project_id": "mynotes-179ed",
+    "storage_bucket": "mynotes-179ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740790213926:android:b2f127324068c8aad2b5e7",
+        "android_client_info": {
+          "package_name": "com.cursoflutter.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740790213926-fjnlq5lr016gh7ggsghohem7gcviagbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1BAWl1UxlSkqlFqFoc3gebEjmLpdsFOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740790213926-fjnlq5lr016gh7ggsghohem7gcviagbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
