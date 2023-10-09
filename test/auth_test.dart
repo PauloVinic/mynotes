@@ -80,7 +80,7 @@ class NotInitializedException implements Exception {}
 class MockAuthProvider implements AuthProvider {
   AuthUser? _user;
   var _isInitialized = false;
-  bool get isInitialized => isInitialized;
+  bool get isInitialized => _isInitialized;
 
   @override
   Future<AuthUser> createUser({
